@@ -47,7 +47,9 @@ The scipt itself has proven effective in producing accurate and presentable resu
 The script remains flexible and can be used with modifications for any elections. Below are my two proposals for modified uses regarding the upcomming 2021 Canada Federal Election. 
 
 1. Fact Checking 
+
 I believe the script can be modified to include a statistical breakdown of how many times each Canada party leader has made false claims, truth stretches, and correct claims. With a CSV file providing the data points, the script can be modified to retreive and calculate the count and % breakdown the same way it does for county total counts and percentage %. 
 
-3. Federal Election Vote Gains/Loss 
+2. Federal Election Vote Gains/Loss 
+
 The script can be modified to provide historical data comparisons as well. The script would import two CSV files and modified to perform two separate calculations for comparison points. The purpose would be to provide a canddiate name, total count, and percentage breakdown for any political parties running in the federal elections. 
